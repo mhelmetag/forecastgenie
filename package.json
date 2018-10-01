@@ -1,7 +1,7 @@
 {
   "name": "forecastgenie",
   "version": "1.0.0",
-  "description": "Reveal the 3rd, 4th and 5th Day Forecasts on Surfline",
+  "description": "Reveal the 3rd, 4th, 5th and 6th Days for Forecasts on Surfline",
   "main": "src/content.js",
   "scripts": {
     "clean": "rm -rf build && rm -f forecastgenie.zip",

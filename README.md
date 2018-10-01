@@ -1,10 +1,10 @@
 # ForecastGenie
 
-Reveal the 3rd, 4th and 5th Day Forecasts on Surfline
+Reveal the 3rd, 4th, 5th and 6th Days for Forecasts on Surfline
 
 ## More Info
 
-Surfline's Regional Forecast only shows the next two days and the last three days are blurred out (unless you pay for Premium; Premium does include more than five days). These other days are hidden and blurred but the data is actually there.
+Surfline's Regional Forecasts only show the next two days and the last four days are blurred out (unless you pay for Premium; Premium does include more than six days). These other days are hidden and blurred but the data is actually there.
 
 With a little magic from ForecastGenie, we can see those extra days!
 
@@ -12,7 +12,7 @@ With a little magic from ForecastGenie, we can see those extra days!
 
 ### Normal Way
 
-*   Go to [download link](https://example.com) on Chrome
+*   Go to [download link](https://chrome.google.com/webstore/detail/forecastgenie/alhjbhihjlhkapdpbfdalmcdfobmffmo) on Chrome
 *   Click "Add to Chrome"
 *   Enjoy
 
