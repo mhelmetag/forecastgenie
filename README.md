@@ -4,7 +4,7 @@ Reveal the 3rd, 4th and 5th Day Forecasts on Surfline
 
 ## More Info
 
-Surfline's Regional Forecasts only shows the next two days and the last three days are blurred out (unless you pay for Premium; Premium does include more than five days). These other days are hidden and blurred but the data is actually there.
+Surfline's Regional Forecast only shows the next two days and the last three days are blurred out (unless you pay for Premium; Premium does include more than five days). These other days are hidden and blurred but the data is actually there.
 
 With a little magic from ForecastGenie, we can see those extra days!
 

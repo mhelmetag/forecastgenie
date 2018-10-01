@@ -1,4 +1,6 @@
 (function() {
+  let timeoutCounter = 5;
+  let chartsBlurred = true;
   let timeout;
 
   timeout = window.setTimeout(() => {
@@ -25,7 +27,13 @@
         });
       });
 
+      chartsBlurred = false;
+    }
+
+    if (chartsBlurred && timeoutCounter > 0) {
+      timeoutCounter -= 1;
+    } else {
       window.clearTimeout(timeout);
     }
-  }, 5000);
+  }, 2000);
 })();
