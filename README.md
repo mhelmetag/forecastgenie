@@ -1,5 +1,7 @@
 # ForecastGenie
 
+**Note:** Unfortunately, Surfline has change their frontend so that edits to the DOM (updating the class names of certain HTML elements) cause a refresh of the page. This makes the extension obsolete.
+
 Reveal the 3rd, 4th, 5th and 6th Days for Forecasts on Surfline
 
 ## More Info
